@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BewareMrPookums.cs" Line="7" Column="26" />
+      <File FileName="Assets\Scripts\OpenDrawer.cs" Line="85" Column="1" />
+      <File FileName="Assets\Scripts\CameraMover.cs" Line="65" Column="1" />
+      <File FileName="Assets\Scripts\DestroyObject.cs" Line="34" Column="42" />
+      <File FileName="Assets\Scripts\PuzzleScript.cs" Line="5" Column="32" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="5" Column="29" />
+      <File FileName="Assets\Scripts\Usable.cs" Line="39" Column="56" />
+      <File FileName="Assets\Scripts\SceneChange.cs" Line="19" Column="1" />
+      <File FileName="Assets\Scripts\DestroyDevice.cs" Line="22" Column="1" />
+      <File FileName="Assets\Scripts\Escape.cs" Line="29" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
